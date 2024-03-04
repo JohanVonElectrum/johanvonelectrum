@@ -18,7 +18,7 @@
 * ⚡ `I'm`: **21 years old**,
 * 🌱 `I’m currently learning`: **Rust**,
 * ❤️ `I love`: **Low-Level Programming**  ,
-* 💻 `Favorite languages`: **Rust, Zig & TypeScript**
+* 💻 `Favorite languages`: **Java, C++ & Rust**
 
 <br/>
 
