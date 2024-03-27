@@ -38,11 +38,11 @@
 <p align="center">Take a look at my most outstanding projects.</p>
 
 <div id="top-repos" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koralix-studios&repo=step-functions&show_icons=true&theme=transparent" alt="Step Functions" />
+  <a href="https://github.com/Koralix-Studios/step-functions"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koralix-studios&repo=step-functions&show_icons=true&theme=transparent" alt="Step Functions" /></a>
   <div align="center">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johanvonelectrum&repo=johan-carpet&show_icons=true&theme=transparent" alt="Johan Carpet" />  
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=johanvonelectrum&repo=arch&show_icons=true&theme=transparent" alt="Arch" />
+    <a href="https://github.com/JohanVonElectrum/Johan-Carpet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=johanvonelectrum&repo=johan-carpet&show_icons=true&theme=transparent" alt="Johan Carpet" /></a>
+    <a href="https://github.com/JohanVonElectrum/arch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=johanvonelectrum&repo=arch&show_icons=true&theme=transparent" alt="Arch" /></a>
   </div>
 </div>  
 
