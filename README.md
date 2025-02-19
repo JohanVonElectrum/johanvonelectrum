@@ -15,10 +15,10 @@
 
 * 👂 `My name is`: **JohanVonElectrum**,
 * 👩 `Pronouns`: **He/His**,
-* ⚡ `I'm`: **21 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
+* ⚡ `I'm`: **22 years old**,
+* 🌱 `I’m currently learning`: **Parsing & Type Theory**,
 * ❤️ `I love`: **Low-Level Programming**  ,
-* 💻 `Favorite languages`: **Java, C++ & Rust**
+* 💻 `Favorite languages`: **Rust, C, C++ & Java**
 
 <br/>
 
